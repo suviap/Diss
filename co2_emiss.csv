@@ -1,0 +1,244 @@
+﻿Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,1009.5096,Fc,Calculated data
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,225.94,Fc,Calculated data
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,239.1235,Fc,Calculated data
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,1277.0602,Fc,Calculated data
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,1783.206,Fc,Calculated data
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,498.5905,Fc,Calculated data
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,185.1764,Fc,Calculated data
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,1277.5917,Fc,Calculated data
+EM,Emissions shares,11,Austria,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,555.8078,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,1815.5447,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,403.3902,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,3845.3373,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,1981.8627,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,1397.2003,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,115.8268,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,2643.6901,Fc,Calculated data
+EM,Emissions shares,255,Belgium,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,1283.3088,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,1702.8497,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,3247.794,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,120.855,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,958.9739,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,672.7125,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,604.0712,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,6.8999,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,887.7023,Fc,Calculated data
+EM,Emissions shares,27,Bulgaria,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,443.5758,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,690.1817,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,453.6125,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,20.7913,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,673.9995,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,468.7175,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,281.1872,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,65.2838,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,512.7179,Fc,Calculated data
+EM,Emissions shares,98,Croatia,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,133.6286,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,98.4062,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,30.3359,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,130.3874,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,178.5114,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,147.07,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,182.4395,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,3.6993,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,186.0019,Fc,Calculated data
+EM,Emissions shares,50,Cyprus,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,5.8876,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,1490.5956,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,958.8724,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,571.6641,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,2416.0518,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,1394.997,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,1606.6616,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,28.2749,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,2333.155,Fc,Calculated data
+EM,Emissions shares,167,Czechia,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,834.6431,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,2786.9014,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,2260.8729,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,673.07,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,2077.9922,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,912.0935,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,715.3323,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,13.3461,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,678.2199,Fc,Calculated data
+EM,Emissions shares,54,Denmark,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,184.2172,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,2846.2313,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,218.0808,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,466.7401,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,184.0143,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,445.0841,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,47.0771,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,224.5108,Fc,Calculated data
+EM,Emissions shares,63,Estonia,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,68.9076,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,7856.1188,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,339.3777,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,922.0157,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,906.8405,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,659.7285,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,22.269,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,639.6905,Fc,Calculated data
+EM,Emissions shares,67,Finland,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,1563.7572,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,15941.1023,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,624.9726,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,10552.9691,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,18989.14,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,8519.4332,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,979.1096,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,7035.8534,Fc,Calculated data
+EM,Emissions shares,68,France,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,4566.4053,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,17884.8819,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,3313.988,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,21264.3788,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,12239.48,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,15113.391,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,1816.189,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,20516.3373,Fc,Calculated data
+EM,Emissions shares,79,Germany,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,8992.4514,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,1599.4381,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0.0475,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,1780.3435,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,1725.9183,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,1278.16,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,1665.9476,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,173.5136,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,3708.0622,Fc,Calculated data
+EM,Emissions shares,84,Greece,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,711.963,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,7213.3722,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,363.1129,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,330.1583,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,1729.5252,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,944.636,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,735.5462,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,44.1597,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,1576.8983,Fc,Calculated data
+EM,Emissions shares,97,Hungary,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,381.9958,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,1863.1233,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,282.339,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,1899.2731,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,920.9515,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,596.9876,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,26.4748,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,1093.1403,Fc,Calculated data
+EM,Emissions shares,104,Ireland,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,490.828,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,7994.8703,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,2507.6324,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,10344.6463,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,15245.463,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,13338.7094,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,624.3313,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,9556.9351,Fc,Calculated data
+EM,Emissions shares,106,Italy,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,7041.3645,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,2767.3338,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,581.1366,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,19.8037,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,163.6086,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,251.152,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,87.623,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,29.3119,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,74.6324,Fc,Calculated data
+EM,Emissions shares,119,Latvia,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,24.6213,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,4942.3827,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,696.6769,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,30.1926,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,397.1364,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,425.307,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,119.342,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,17.3675,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,113.758,Fc,Calculated data
+EM,Emissions shares,126,Lithuania,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,46.0009,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,82.7876,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,11.7593,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,85.6291,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,431.7295,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,139.477,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,18.5684,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,182.8829,Fc,Calculated data
+EM,Emissions shares,256,Luxembourg,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,44.9484,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,31.2802,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,10.3291,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,51.6459,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,43.8648,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,106.8294,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,0.1731,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,86.7329,Fc,Calculated data
+EM,Emissions shares,134,Malta,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,6.2906,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,9493.2362,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,46.5931,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,3948.0225,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,7083.8064,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,2321.966,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,2798.6596,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,589.4485,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,3412.6443,Fc,Calculated data
+EM,Emissions shares,150,Netherlands,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,1642.2459,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,26023.446,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,1319.5027,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,12566.2651,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,4052.655,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,6136.9475,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,187.6147,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,10668.0495,Fc,Calculated data
+EM,Emissions shares,173,Poland,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,3343.5878,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,1407.1203,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,349.5793,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,1471.4527,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,1229.252,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,837.4246,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,106.3922,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,745.06,Fc,Calculated data
+EM,Emissions shares,174,Portugal,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,517.0751,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,1682.6857,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,5094.1748,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,379.6173,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,2074.0231,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,1286.344,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,799.9721,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,23.2029,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,1729.7268,Fc,Calculated data
+EM,Emissions shares,183,Romania,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,680.6179,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,339.911,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,54.3004,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,409.6752,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,485.87,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,385.8625,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,25.5932,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,541.0326,Fc,Calculated data
+EM,Emissions shares,199,Slovakia,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,350.119,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,420.491,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,1162.213,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,0,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,271.1227,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,436.8834,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,263.3134,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,19.2591,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,345.6361,Fc,Calculated data
+EM,Emissions shares,198,Slovenia,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,377.9196,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,6852.3172,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,807.8143,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,2017.8925,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,7180.3819,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,6395.18,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,4077.4958,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,289.1799,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,5713.9608,Fc,Calculated data
+EM,Emissions shares,203,Spain,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,2226.6534,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6996,Farm-gate emissions,2016,2016,kilotonnes,5898.1325,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6516,Land Use change,2016,2016,kilotonnes,23845.36,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6510,On-farm electricity use,2016,2016,kilotonnes,27.5655,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6507,Food Processing,2016,2016,kilotonnes,517.6882,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6815,Food Transport,2016,2016,kilotonnes,1500.3065,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6508,Food Retail,2016,2016,kilotonnes,203.1784,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6515,Food Waste Disposal,2016,2016,kilotonnes,98.5326,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6505,Food Household Consumption,2016,2016,kilotonnes,126.0222,Fc,Calculated data
+EM,Emissions shares,210,Sweden,7273,Emissions (CO2),6506,Food Packaging,2016,2016,kilotonnes,357.5019,Fc,Calculated data
