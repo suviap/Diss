@@ -1,0 +1,217 @@
+﻿Area,Value,Type,Cluster
+Austria,11.55485821,Farm-gate emissions,1
+Belgium,16.02221416,Farm-gate emissions,1
+Bulgaria,23.89018272,Farm-gate emissions,3
+Croatia,16.5338763,Farm-gate emissions,3
+Cyprus,8.409427879,Farm-gate emissions,2
+Czechia,14.10702976,Farm-gate emissions,3
+Denmark,48.65391995,Farm-gate emissions,1
+Estonia,216.3134923,Farm-gate emissions,3
+Finland,142.960612,Farm-gate emissions,1
+France,23.89106986,Farm-gate emissions,2
+Germany,21.71848327,Farm-gate emissions,1
+Greece,14.84263553,Farm-gate emissions,2
+Hungary,73.50066532,Farm-gate emissions,3
+Ireland,39.1796435,Farm-gate emissions,1
+Italy,13.18687157,Farm-gate emissions,2
+Latvia,141.2238605,Farm-gate emissions,3
+Lithuania,172.3146671,Farm-gate emissions,3
+Luxembourg,14.22433137,Farm-gate emissions,1
+Malta,6.869394496,Farm-gate emissions,2
+Netherlands,55.74316598,Farm-gate emissions,1
+Poland,68.53670364,Farm-gate emissions,3
+Portugal,13.62768719,Farm-gate emissions,2
+Romania,8.540568961,Farm-gate emissions,3
+Slovakia,6.258951263,Farm-gate emissions,3
+Slovenia,20.36234614,Farm-gate emissions,3
+Spain,14.74121861,Farm-gate emissions,2
+Sweden,59.43849619,Farm-gate emissions,1
+Austria,14.62332894,Food Household Consumption,1
+Belgium,23.33061199,Food Household Consumption,1
+Bulgaria,12.45404697,Food Household Consumption,3
+Croatia,12.28258346,Food Household Consumption,3
+Cyprus,15.89503063,Food Household Consumption,2
+Czechia,22.08103058,Food Household Consumption,3
+Denmark,11.84041054,Food Household Consumption,1
+Estonia,17.06281397,Food Household Consumption,3
+Finland,11.6406775,Food Household Consumption,1
+France,10.54469521,Food Household Consumption,2
+Germany,24.91398774,Food Household Consumption,1
+Greece,34.41046937,Food Household Consumption,2
+Hungary,16.06780726,Food Household Consumption,3
+Ireland,22.98766123,Food Household Consumption,1
+Italy,15.76336714,Food Household Consumption,2
+Latvia,3.808675213,Food Household Consumption,3
+Lithuania,3.966138013,Food Household Consumption,3
+Luxembourg,31.42242283,Food Household Consumption,1
+Malta,19.0472729,Food Household Consumption,2
+Netherlands,20.03864579,Food Household Consumption,1
+Poland,28.09593115,Food Household Consumption,3
+Portugal,7.215761596,Food Household Consumption,2
+Romania,8.779328795,Food Household Consumption,3
+Slovakia,9.962303882,Food Household Consumption,3
+Slovenia,16.73748524,Food Household Consumption,3
+Spain,12.29230096,Food Household Consumption,2
+Sweden,1.269990129,Food Household Consumption,1
+Austria,6.361782318,Food Packaging,1
+Belgium,11.32522291,Food Packaging,1
+Bulgaria,6.223160455,Food Packaging,3
+Croatia,3.201184185,Food Packaging,3
+Cyprus,0.5031324,Food Packaging,2
+Czechia,7.899080778,Food Packaging,3
+Denmark,3.216076788,Food Packaging,1
+Estonia,5.236975505,Food Packaging,3
+Finland,28.45625073,Food Packaging,1
+France,6.843711682,Food Packaging,2
+Germany,10.91997176,Food Packaging,1
+Greece,6.606949852,Food Packaging,2
+Hungary,3.892346696,Food Packaging,3
+Ireland,10.32162823,Food Packaging,1
+Italy,11.61414331,Food Packaging,2
+Latvia,1.256485588,Food Packaging,3
+Lithuania,1.603807364,Food Packaging,3
+Luxembourg,7.722907009,Food Packaging,1
+Malta,1.381468565,Food Packaging,2
+Netherlands,9.643074696,Food Packaging,1
+Poland,8.805847087,Food Packaging,3
+Portugal,5.007772057,Food Packaging,2
+Romania,3.454515666,Food Packaging,3
+Slovakia,6.446916273,Food Packaging,3
+Slovenia,18.30081906,Food Packaging,3
+Spain,4.79014377,Food Packaging,2
+Sweden,3.602729393,Food Packaging,1
+Austria,14.61724538,Food Packaging,1
+Belgium,33.93516983,Food Packaging,1
+Bulgaria,13.4539541,Food Packaging,3
+Croatia,16.14621825,Food Packaging,3
+Cyprus,15.25492036,Food Packaging,2
+Czechia,22.86556773,Food Packaging,3
+Denmark,36.27773345,Food Packaging,1
+Estonia,35.47223341,Food Packaging,3
+Finland,16.77825044,Food Packaging,1
+France,15.81582737,Food Packaging,2
+Germany,25.82237097,Food Packaging,1
+Greece,16.01635992,Food Packaging,2
+Hungary,17.62299925,Food Packaging,3
+Ireland,39.9398381,Food Packaging,1
+Italy,17.06263105,Food Packaging,2
+Latvia,8.349349872,Food Packaging,3
+Lithuania,13.8460396,Food Packaging,3
+Luxembourg,14.71254987,Food Packaging,1
+Malta,11.34187317,Food Packaging,2
+Netherlands,41.59527769,Food Packaging,1
+Poland,33.09517068,Food Packaging,3
+Portugal,14.25073401,Food Packaging,2
+Romania,10.52682465,Food Packaging,3
+Slovakia,7.543554373,Food Packaging,3
+Slovenia,13.12916154,Food Packaging,3
+Spain,15.446976,Food Packaging,2
+Sweden,5.217008622,Food Packaging,1
+Austria,5.70687246,Food Retail,1
+Belgium,12.33031741,Food Retail,1
+Bulgaria,8.474835651,Food Retail,3
+Croatia,6.736073098,Food Retail,3
+Cyprus,15.59060118,Food Retail,2
+Czechia,15.20548096,Food Retail,3
+Denmark,12.48832142,Food Retail,1
+Estonia,33.82637807,Food Retail,3
+Finland,12.00531618,Food Retail,1
+France,12.76814927,Food Retail,2
+Germany,18.35292687,Food Retail,1
+Greece,15.45983745,Food Retail,2
+Hungary,7.494848952,Food Retail,3
+Ireland,12.55405981,Food Retail,1
+Italy,22.00108835,Food Retail,2
+Latvia,4.47161753,Food Retail,3
+Lithuania,4.160822472,Food Retail,3
+Luxembourg,23.96454381,Food Retail,1
+Malta,23.460633,Food Retail,2
+Netherlands,16.43339988,Food Retail,1
+Poland,16.16258477,Food Retail,3
+Portugal,8.110294833,Food Retail,2
+Romania,4.060304837,Food Retail,3
+Slovakia,7.105079217,Food Retail,3
+Slovenia,12.7509949,Food Retail,3
+Spain,8.771814735,Food Retail,2
+Sweden,2.047532597,Food Retail,1
+Austria,20.41059589,Food Transport,1
+Belgium,17.48997346,Food Transport,1
+Bulgaria,9.4378409,Food Transport,3
+Croatia,11.22851731,Food Transport,3
+Cyprus,12.56805525,Food Transport,2
+Czechia,13.2022825,Food Transport,3
+Denmark,15.92339224,Food Transport,1
+Estonia,13.98508121,Food Transport,3
+Finland,16.50210189,Food Transport,1
+France,28.4591907,Food Transport,2
+Germany,14.86299675,Food Transport,1
+Greece,11.8612049,Food Transport,2
+Hungary,9.625369739,Food Transport,3
+Ireland,19.36670077,Food Transport,1
+Italy,25.14611934,Food Transport,2
+Latvia,12.81690522,Food Transport,3
+Lithuania,14.82819898,Food Transport,3
+Luxembourg,74.1785421,Food Transport,1
+Malta,9.633078295,Food Transport,2
+Netherlands,13.63431115,Food Transport,1
+Poland,10.67328342,Food Transport,3
+Portugal,11.90506721,Food Transport,2
+Romania,6.528913652,Food Transport,3
+Slovakia,8.946567337,Food Transport,3
+Slovenia,21.15615082,Food Transport,3
+Spain,13.75779079,Food Transport,2
+Sweden,15.11935552,Food Transport,1
+Austria,2.119531153,Food Waste Disposal,1
+Belgium,1.022173563,Food Waste Disposal,1
+Bulgaria,0.096802361,Food Waste Disposal,3
+Croatia,1.563927693,Food Waste Disposal,3
+Cyprus,0.31612842,Food Waste Disposal,2
+Czechia,0.26759428,Food Waste Disposal,3
+Denmark,0.232997149,Food Waste Disposal,1
+Estonia,3.577858169,Food Waste Disposal,3
+Finland,0.405236981,Food Waste Disposal,1
+France,1.467400147,Food Waste Disposal,2
+Germany,2.20548677,Food Waste Disposal,1
+Greece,1.610189931,Food Waste Disposal,2
+Hungary,0.44996532,Food Waste Disposal,3
+Ireland,0.556738905,Food Waste Disposal,1
+Italy,1.029782393,Food Waste Disposal,2
+Latvia,1.49585846,Food Waste Disposal,3
+Lithuania,0.605512596,Food Waste Disposal,3
+Luxembourg,3.190369991,Food Waste Disposal,1
+Malta,0.038014213,Food Waste Disposal,2
+Netherlands,3.461172237,Food Waste Disposal,1
+Poland,0.494111852,Food Waste Disposal,3
+Portugal,1.030387822,Food Waste Disposal,2
+Romania,0.117767666,Food Waste Disposal,3
+Slovakia,0.471260393,Food Waste Disposal,3
+Slovenia,0.932625099,Food Waste Disposal,3
+Spain,0.622105486,Food Waste Disposal,2
+Sweden,0.992963378,Food Waste Disposal,1
+Austria,2.737010265,On-farm electricity use,1
+Belgium,3.559925665,On-farm electricity use,1
+Bulgaria,1.695538974,On-farm electricity use,3
+Croatia,0.498072873,On-farm electricity use,3
+Cyprus,11.14242229,On-farm electricity use,2
+Czechia,5.4102417,On-farm electricity use,3
+Denmark,11.75050323,On-farm electricity use,1
+Estonia,16.57413417,On-farm electricity use,3
+Finland,6.175777751,On-farm electricity use,1
+France,0.936651918,On-farm electricity use,2
+Germany,4.024337054,On-farm electricity use,1
+Greece,16.52142067,On-farm electricity use,2
+Hungary,3.364148423,On-farm electricity use,3
+Ireland,5.93731041,On-farm electricity use,1
+Italy,4.13613044,On-farm electricity use,2
+Latvia,1.010631593,On-farm electricity use,3
+Lithuania,1.052655801,On-farm electricity use,3
+Luxembourg,2.02044968,On-farm electricity use,1
+Malta,2.268357066,On-farm electricity use,2
+Netherlands,23.18232359,On-farm electricity use,1
+Poland,3.475111079,On-farm electricity use,3
+Portugal,3.38560772,On-farm electricity use,2
+Romania,1.926769645,On-farm electricity use,3
+Slovakia,0.999860426,On-farm electricity use,3
+Slovenia,0,On-farm electricity use,3
+Spain,4.341041667,On-farm electricity use,2
+Sweden,0.277791634,On-farm electricity use,1
