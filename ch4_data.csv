@@ -1,0 +1,190 @@
+﻿Area,Item,Value
+Austria,On-farm electricity use,1.4208
+Austria,Food Processing,2.5984
+Austria,Food Transport,0.0718
+Austria,Food Retail,2.084
+Austria,Food Waste Disposal,39.6558
+Austria,Food Household Consumption,2.6657
+Austria,Food Packaging,1.1112
+Belgium,On-farm electricity use,1.9944
+Belgium,Food Processing,7.2565
+Belgium,Food Transport,0.0776
+Belgium,Food Retail,2.9486
+Belgium,Food Waste Disposal,31.1055
+Belgium,Food Household Consumption,3.1991
+Belgium,Food Packaging,2.1659
+Bulgaria,On-farm electricity use,0.2676
+Bulgaria,Food Processing,1.5298
+Bulgaria,Food Transport,0.1405
+Bulgaria,Food Retail,1.2413
+Bulgaria,Food Waste Disposal,32.6104
+Bulgaria,Food Household Consumption,2.0284
+Bulgaria,Food Packaging,0.4995
+Croatia,On-farm electricity use,0.0744
+Croatia,Food Processing,0.9596
+Croatia,Food Transport,0.038
+Croatia,Food Retail,0.7489
+Croatia,Food Waste Disposal,28.98
+Croatia,Food Household Consumption,1.0463
+Croatia,Food Packaging,0.2174
+Cyprus,On-farm electricity use,0.2064
+Cyprus,Food Processing,0.2057
+Cyprus,Food Transport,0.0112
+Cyprus,Food Retail,0.2729
+Cyprus,Food Waste Disposal,9.5579
+Cyprus,Food Household Consumption,0.2322
+Cyprus,Food Packaging,0.0024
+Czechia,On-farm electricity use,1.1375
+Czechia,Food Processing,2.526
+Czechia,Food Transport,0.1046
+Czechia,Food Retail,2.4286
+Czechia,Food Waste Disposal,51.8595
+Czechia,Food Household Consumption,4.0929
+Czechia,Food Packaging,0.8678
+Denmark,On-farm electricity use,2.0915
+Denmark,Food Processing,3.0616
+Denmark,Food Transport,0.044
+Denmark,Food Retail,1.9698
+Denmark,Food Waste Disposal,12.7421
+Denmark,Food Household Consumption,1.3541
+Denmark,Food Packaging,0.3009
+Estonia,On-farm electricity use,0.258
+Estonia,Food Processing,0.4116
+Estonia,Food Transport,0.01
+Estonia,Food Retail,0.4894
+Estonia,Food Waste Disposal,8.3077
+Estonia,Food Household Consumption,0.249
+Estonia,Food Packaging,0.0628
+Finland,On-farm electricity use,1.8947
+Finland,Food Processing,3.4305
+Finland,Food Transport,0.0606
+Finland,Food Retail,3.1198
+Finland,Food Waste Disposal,16.1886
+Finland,Food Household Consumption,2.9233
+Finland,Food Packaging,5.2744
+France,On-farm electricity use,10.5847
+France,Food Processing,27.1167
+France,Food Transport,0.7726
+France,Food Retail,38.4828
+France,Food Waste Disposal,224.4906
+France,Food Household Consumption,24.1278
+France,Food Packaging,14.4864
+Germany,On-farm electricity use,6.5481
+Germany,Food Processing,24.4205
+Germany,Food Transport,0.6997
+Germany,Food Retail,19.7045
+Germany,Food Waste Disposal,221.9206
+Germany,Food Household Consumption,20.1324
+Germany,Food Packaging,11.1174
+Greece,On-farm electricity use,2.8847
+Greece,Food Processing,1.7023
+Greece,Food Transport,0.1912
+Greece,Food Retail,2.569
+Greece,Food Waste Disposal,172.5131
+Greece,Food Household Consumption,4.6672
+Greece,Food Packaging,0.7905
+Hungary,On-farm electricity use,1.0799
+Hungary,Food Processing,3.118
+Hungary,Food Transport,0.0574
+Hungary,Food Retail,1.2104
+Hungary,Food Waste Disposal,109.9927
+Hungary,Food Household Consumption,2.1398
+Hungary,Food Packaging,0.619
+Ireland,On-farm electricity use,0.6696
+Ireland,Food Processing,2.6345
+Ireland,Food Transport,0.0319
+Ireland,Food Retail,0.923
+Ireland,Food Waste Disposal,26.4132
+Ireland,Food Household Consumption,1.6428
+Ireland,Food Packaging,2.1537
+Italy,On-farm electricity use,6.6813
+Italy,Food Processing,17.2449
+Italy,Food Transport,2.1039
+Italy,Food Retail,24.6836
+Italy,Food Waste Disposal,205.5776
+Italy,Food Household Consumption,9.7462
+Italy,Food Packaging,11.0273
+Latvia,On-farm electricity use,0.2184
+Latvia,Food Processing,0.3643
+Latvia,Food Transport,0.0228
+Latvia,Food Retail,0.4752
+Latvia,Food Waste Disposal,7.5953
+Latvia,Food Household Consumption,0.2637
+Latvia,Food Packaging,0.0552
+Lithuania,On-farm electricity use,0.2472
+Lithuania,Food Processing,0.9622
+Lithuania,Food Transport,0.0441
+Lithuania,Food Retail,0.575
+Lithuania,Food Waste Disposal,18.6634
+Lithuania,Food Household Consumption,0.3996
+Lithuania,Food Packaging,0.15
+Luxembourg,On-farm electricity use,0.0408
+Luxembourg,Food Processing,0.2121
+Luxembourg,Food Transport,0.0109
+Luxembourg,Food Retail,0.2799
+Luxembourg,Food Waste Disposal,2.6554
+Luxembourg,Food Household Consumption,0.1604
+Luxembourg,Food Packaging,0.1036
+Malta,On-farm electricity use,0.0144
+Malta,Food Processing,0.072
+Malta,Food Transport,0.003
+Malta,Food Retail,0.1316
+Malta,Food Waste Disposal,5.3482
+Malta,Food Household Consumption,0.1111
+Malta,Food Packaging,0.0025
+Netherlands,On-farm electricity use,10.6747
+Netherlands,Food Processing,9.0611
+Netherlands,Food Transport,0.1919
+Netherlands,Food Retail,4.9553
+Netherlands,Food Waste Disposal,43.2941
+Netherlands,Food Household Consumption,3.4273
+Netherlands,Food Packaging,1.8962
+Poland,On-farm electricity use,1.9595
+Poland,Food Processing,8.8385
+Poland,Food Transport,0.5598
+Poland,Food Retail,7.2468
+Poland,Food Waste Disposal,370.6763
+Poland,Food Household Consumption,24.7852
+Poland,Food Packaging,2.8468
+Portugal,On-farm electricity use,1.0667
+Portugal,Food Processing,2.5464
+Portugal,Food Transport,0.0671
+Portugal,Food Retail,2.193
+Portugal,Food Waste Disposal,98.8327
+Portugal,Food Household Consumption,1.6912
+Portugal,Food Packaging,0.7549
+Romania,On-farm electricity use,0.8928
+Romania,Food Processing,2.4909
+Romania,Food Transport,0.0657
+Romania,Food Retail,1.292
+Romania,Food Waste Disposal,127.3748
+Romania,Food Household Consumption,2.2959
+Romania,Food Packaging,0.8999
+Slovakia,On-farm electricity use,0.3024
+Slovakia,Food Processing,0.694
+Slovakia,Food Transport,0.0174
+Slovakia,Food Retail,0.9998
+Slovakia,Food Waste Disposal,30.6875
+Slovakia,Food Household Consumption,0.9248
+Slovakia,Food Packaging,0.7854
+Slovenia,On-farm electricity use,0
+Slovenia,Food Processing,0.3712
+Slovenia,Food Transport,0.0185
+Slovenia,Food Retail,0.4789
+Slovenia,Food Waste Disposal,14.0372
+Slovenia,Food Household Consumption,0.5526
+Slovenia,Food Packaging,0.5134
+Spain,On-farm electricity use,7.1805
+Spain,Food Processing,13.4457
+Spain,Food Transport,0.437
+Spain,Food Retail,9.7218
+Spain,Food Waste Disposal,410.6035
+Spain,Food Household Consumption,12.0874
+Spain,Food Packaging,3.8146
+Sweden,On-farm electricity use,1.5491
+Sweden,Food Processing,2.9094
+Sweden,Food Transport,0.0804
+Sweden,Food Retail,4.8467
+Sweden,Food Waste Disposal,20.9161
+Sweden,Food Household Consumption,5.1226
+Sweden,Food Packaging,5.7252
