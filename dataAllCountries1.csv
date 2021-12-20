@@ -1,0 +1,217 @@
+Area,Cluster,Value,Type
+Austria,0,95.24,Wheat and rice products
+Austria,0,238.59,Vegetable and fruit products
+Austria,0,13.87,Seafood products
+Austria,0,138.23,Beverages incl. alcohol
+Austria,0,104.52,Meat
+Austria,0,32.81,Poultry meat and eggs
+Austria,0,199.62,Oils and milk products
+Austria,0,7.66,Coffee and tea
+Belgium,1,119.64,Wheat and rice products
+Belgium,1,293.51,Vegetable and fruit products
+Belgium,1,22.74,Seafood products
+Belgium,1,108.91,Beverages incl. alcohol
+Belgium,1,72.64,Meat
+Belgium,1,19.93,Poultry meat and eggs
+Belgium,1,136.49,Oils and milk products
+Belgium,1,5,Coffee and tea
+Bulgaria,1,110.97,Wheat and rice products
+Bulgaria,1,176.11,Vegetable and fruit products
+Bulgaria,1,6.96,Seafood products
+Bulgaria,1,96.05,Beverages incl. alcohol
+Bulgaria,1,71.67,Meat
+Bulgaria,1,30.53,Poultry meat and eggs
+Bulgaria,1,154.43,Oils and milk products
+Bulgaria,1,4.1,Coffee and tea
+Croatia,1,108.2,Wheat and rice products
+Croatia,1,369.17,Vegetable and fruit products
+Croatia,1,15.81,Seafood products
+Croatia,1,101.57,Beverages incl. alcohol
+Croatia,1,91.4,Meat
+Croatia,1,20.2,Poultry meat and eggs
+Croatia,1,228.49,Oils and milk products
+Croatia,1,5.01,Coffee and tea
+Cyprus,2,133.01,Wheat and rice products
+Cyprus,2,185.87,Vegetable and fruit products
+Cyprus,2,20.39,Seafood products
+Cyprus,2,53.65,Beverages incl. alcohol
+Cyprus,2,87.17,Meat
+Cyprus,2,32.94,Poultry meat and eggs
+Cyprus,2,133.48,Oils and milk products
+Cyprus,2,3.23,Coffee and tea
+Czechia,1,93.91,Wheat and rice products
+Czechia,1,211.45,Vegetable and fruit products
+Czechia,1,9.29,Seafood products
+Czechia,1,172.67,Beverages incl. alcohol
+Czechia,1,97.71,Meat
+Czechia,1,30.74,Poultry meat and eggs
+Czechia,1,160.17,Oils and milk products
+Czechia,1,2.33,Coffee and tea
+Denmark,0,100.86,Wheat and rice products
+Denmark,0,222.6,Vegetable and fruit products
+Denmark,0,29.1,Seafood products
+Denmark,0,93.87,Beverages incl. alcohol
+Denmark,0,104.39,Meat
+Denmark,0,41.16,Poultry meat and eggs
+Denmark,0,244.23,Oils and milk products
+Denmark,0,7.83,Coffee and tea
+Estonia,0,72.03,Wheat and rice products
+Estonia,0,252.11,Vegetable and fruit products
+Estonia,0,14.58,Seafood products
+Estonia,0,125.89,Beverages incl. alcohol
+Estonia,0,78.98,Meat
+Estonia,0,33.38,Poultry meat and eggs
+Estonia,0,288.25,Oils and milk products
+Estonia,0,4.38,Coffee and tea
+Finland,0,89.16,Wheat and rice products
+Finland,0,209.5,Vegetable and fruit products
+Finland,0,33.58,Seafood products
+Finland,0,96.85,Beverages incl. alcohol
+Finland,0,88.68,Meat
+Finland,0,29.59,Poultry meat and eggs
+Finland,0,367.25,Oils and milk products
+Finland,0,11.97,Coffee and tea
+France,2,128.4,Wheat and rice products
+France,2,250.92,Vegetable and fruit products
+France,2,32.83,Seafood products
+France,2,76.3,Beverages incl. alcohol
+France,2,97.27,Meat
+France,2,34.29,Poultry meat and eggs
+France,2,207.08,Oils and milk products
+France,2,5.36,Coffee and tea
+Germany,0,94.02,Wheat and rice products
+Germany,0,235.98,Vegetable and fruit products
+Germany,0,12.5,Seafood products
+Germany,0,127.39,Beverages incl. alcohol
+Germany,0,94.43,Meat
+Germany,0,30.82,Poultry meat and eggs
+Germany,0,194.9,Oils and milk products
+Germany,0,6.58,Coffee and tea
+Greece,2,135.96,Wheat and rice products
+Greece,2,360.33,Vegetable and fruit products
+Greece,2,15.8,Seafood products
+Greece,2,56.85,Beverages incl. alcohol
+Greece,2,81.67,Meat
+Greece,2,24.59,Poultry meat and eggs
+Greece,2,258.5,Oils and milk products
+Greece,2,4.86,Coffee and tea
+Hungary,1,115.37,Wheat and rice products
+Hungary,1,194.17,Vegetable and fruit products
+Hungary,1,6.27,Seafood products
+Hungary,1,104.03,Beverages incl. alcohol
+Hungary,1,97.63,Meat
+Hungary,1,39.2,Poultry meat and eggs
+Hungary,1,186,Oils and milk products
+Hungary,1,1.58,Coffee and tea
+Ireland,0,113.22,Wheat and rice products
+Ireland,0,228.01,Vegetable and fruit products
+Ireland,0,23.35,Seafood products
+Ireland,0,154.3,Beverages incl. alcohol
+Ireland,0,92.03,Meat
+Ireland,0,33.34,Poultry meat and eggs
+Ireland,0,338.12,Oils and milk products
+Ireland,0,3.63,Coffee and tea
+Italy,2,158.29,Wheat and rice products
+Italy,2,300.48,Vegetable and fruit products
+Italy,2,25.68,Seafood products
+Italy,2,60.1,Beverages incl. alcohol
+Italy,2,91.57,Meat
+Italy,2,30.5,Poultry meat and eggs
+Italy,2,204.88,Oils and milk products
+Italy,2,5.55,Coffee and tea
+Latvia,1,98.28,Wheat and rice products
+Latvia,1,294.29,Vegetable and fruit products
+Latvia,1,23.97,Seafood products
+Latvia,1,102.54,Beverages incl. alcohol
+Latvia,1,84.92,Meat
+Latvia,1,32.67,Poultry meat and eggs
+Latvia,1,209.53,Oils and milk products
+Latvia,1,3.61,Coffee and tea
+Lithuania,0,138.16,Wheat and rice products
+Lithuania,0,214.6,Vegetable and fruit products
+Lithuania,0,31.32,Seafood products
+Lithuania,0,121.08,Beverages incl. alcohol
+Lithuania,0,100.48,Meat
+Lithuania,0,43.1,Poultry meat and eggs
+Lithuania,0,130.13,Oils and milk products
+Lithuania,0,4.64,Coffee and tea
+Luxembourg,0,115.39,Wheat and rice products
+Luxembourg,0,227.82,Vegetable and fruit products
+Luxembourg,0,31.19,Seafood products
+Luxembourg,0,148.32,Beverages incl. alcohol
+Luxembourg,0,99.69,Meat
+Luxembourg,0,33.8,Poultry meat and eggs
+Luxembourg,0,131.22,Oils and milk products
+Luxembourg,0,25.36,Coffee and tea
+Malta,2,135.61,Wheat and rice products
+Malta,2,331.18,Vegetable and fruit products
+Malta,2,30.2,Seafood products
+Malta,2,69.29,Beverages incl. alcohol
+Malta,2,98.44,Meat
+Malta,2,39.56,Poultry meat and eggs
+Malta,2,119.01,Oils and milk products
+Malta,2,3.74,Coffee and tea
+Netherlands,0,91.4,Wheat and rice products
+Netherlands,0,252.12,Vegetable and fruit products
+Netherlands,0,21.8,Seafood products
+Netherlands,0,81.54,Beverages incl. alcohol
+Netherlands,0,88.66,Meat
+Netherlands,0,35.96,Poultry meat and eggs
+Netherlands,0,296.28,Oils and milk products
+Netherlands,0,3.17,Coffee and tea
+Poland,1,121.84,Wheat and rice products
+Poland,1,282.88,Vegetable and fruit products
+Poland,1,12.39,Seafood products
+Poland,1,116.67,Beverages incl. alcohol
+Poland,1,96.62,Meat
+Poland,1,40.07,Poultry meat and eggs
+Poland,1,178.96,Oils and milk products
+Poland,1,2.76,Coffee and tea
+Portugal,2,113.66,Wheat and rice products
+Portugal,2,357.06,Vegetable and fruit products
+Portugal,2,52.23,Seafood products
+Portugal,2,98.38,Beverages incl. alcohol
+Portugal,2,108.62,Meat
+Portugal,2,40.35,Poultry meat and eggs
+Portugal,2,150.34,Oils and milk products
+Portugal,2,5.59,Coffee and tea
+Romania,1,132.48,Wheat and rice products
+Romania,1,390.24,Vegetable and fruit products
+Romania,1,8.05,Seafood products
+Romania,1,111.02,Beverages incl. alcohol
+Romania,1,90.21,Meat
+Romania,1,36.53,Poultry meat and eggs
+Romania,1,247.43,Oils and milk products
+Romania,1,2.94,Coffee and tea
+Slovakia,1,84.5,Wheat and rice products
+Slovakia,1,184.32,Vegetable and fruit products
+Slovakia,1,9.68,Seafood products
+Slovakia,1,85.34,Beverages incl. alcohol
+Slovakia,1,78.14,Meat
+Slovakia,1,26.99,Poultry meat and eggs
+Slovakia,1,179.5,Oils and milk products
+Slovakia,1,3.45,Coffee and tea
+Slovenia,1,110.21,Wheat and rice products
+Slovenia,1,242.26,Vegetable and fruit products
+Slovenia,1,10.47,Seafood products
+Slovenia,1,85.73,Beverages incl. alcohol
+Slovenia,1,88,Meat
+Slovenia,1,33.83,Poultry meat and eggs
+Slovenia,1,161.98,Oils and milk products
+Slovenia,1,4.8,Coffee and tea
+Spain,2,109.57,Wheat and rice products
+Spain,2,307.6,Vegetable and fruit products
+Spain,2,40.79,Seafood products
+Spain,2,99.83,Beverages incl. alcohol
+Spain,2,117.32,Meat
+Spain,2,44.85,Poultry meat and eggs
+Spain,2,189.64,Oils and milk products
+Spain,2,4.17,Coffee and tea
+Sweden,0,97.98,Wheat and rice products
+Sweden,0,205.98,Vegetable and fruit products
+Sweden,0,32.74,Seafood products
+Sweden,0,82.04,Beverages incl. alcohol
+Sweden,0,89,Meat
+Sweden,0,30.53,Poultry meat and eggs
+Sweden,0,197.15,Oils and milk products
+Sweden,0,10.28,Coffee and tea
